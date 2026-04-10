@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "676767667.aternos.me",
+    "ip": "borzoi.aternos.host",
     "port": 56307,
     "version": "1.21.11",
     "try-creative": false
